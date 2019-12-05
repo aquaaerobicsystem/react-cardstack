@@ -22855,7 +22855,7 @@ module.exports = ReactMount.renderSubtreeIntoContainer;
 
 exports.__esModule = true;
 exports.default = void 0;
-import {people} from './people.js';
+import people from './people.js';
 alert(people);
 var _default = people;
 exports.default = _default;
