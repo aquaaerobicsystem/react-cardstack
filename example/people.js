@@ -1,3 +1,4 @@
+<script>
 const people = [{
 	background: '#2980B9',
 	imgSrc: 'https://s3.amazonaws.com/uifaces/faces/twitter/rem/128.jpg',
@@ -47,4 +48,8 @@ const people = [{
 }	
 ];
 
-export default people;
+//export default people;
+module.exports = { 
+   people;
+} 
+</script>
